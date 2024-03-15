@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+# Daily Goals with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
-
-In the project directory, you can run:
+This is a simple project with react, where the user can enter his/her daily goals and store them locally. When the user completes his goals there is a delete option to delete the completed goals.
 
 ### `npm start`
 
